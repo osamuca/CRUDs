@@ -1,0 +1,49 @@
+h1 {
+		  color: DeepSkyBlue;
+		  font-size: 50px;
+		  font-weight: 700;
+      text-align: center;
+		}
+
+		h3 {
+		  font-size: 30px;
+		}
+
+		h1, h2, h3 {
+		  font-family: 'Droid Sans Mono', monospace;
+		}
+
+		.title {
+		  margin-top: 20px;
+		}
+
+		.main-img {
+		  width: 100%;
+		}
+
+		ul {
+		  list-style: none;
+		}
+		.time {
+		  color: DeepSkyBlue;
+		  font-size: 20px;
+		}
+
+		li, p {
+		  font-size: 18px;
+		  margin: 10px;
+		  font-family: 'Droid Sans Mono', monospace;
+		}
+
+		.nav-tabs {
+		   text-align:center;
+		   float:none;
+		   display:inline-block;
+		   margin-bottom: 30px;
+		}
+div .center {
+		  color: DeepSkyBlue;
+		  font-size: 50px;
+		  font-weight: 700;
+      text-align: center;
+}
